@@ -1,0 +1,177 @@
+# funnyhowtheknightmoves solver
+
+A small solver for https://www.funnyhowtheknightmoves.com/.
+
+## Building
+
+``make``
+
+
+## Running
+
+``./solver``
+
+
+## Output
+
+```
+	h8
+g6
+	f8
+h7
+f6
+	e8
+f6
+h7
+f8
+g6
+e7
+	c8
+e7
+g6
+f8
+h7
+f6
+e8
+c7
+a6
+	b8
+a6
+c7
+e8
+f6
+	h7
+f6
+e8
+	g7
+e8
+f6
+h7
+f8
+g6
+	e7
+g6
+f8
+h7
+f6
+e8
+	c7
+e8
+f6
+h7
+f8
+g6
+e7
+c8
+	a7
+c8
+e7
+g6
+f8
+h7
+f6
+g4
+	h6
+g4
+f6
+h7
+f8
+	g6
+f8
+h7
+	f6
+h7
+f8
+g6
+e7
+c8
+	b6
+a4
+c3
+b1
+a3
+c2
+b4
+	a6
+c7
+e8
+f6
+h7
+f8
+g6
+	h4
+g6
+f8
+h7
+f6
+	g4
+f2
+h3
+	f4
+h3
+f2
+g4
+e3
+c2
+	b4
+c2
+a3
+b1
+c3
+	a4
+c3
+e2
+f4
+	h3
+f4
+e2
+	g3
+f1
+	e3
+c2
+a3
+b1
+	c3
+b1
+	a3
+c2
+e3
+g4
+	h2
+g4
+	f2
+h3
+f4
+	e2
+g3
+f1
+e3
+	c2
+a3
+b1
+c3
+a4
+	b2
+a4
+c3
+e2
+	g1
+e2
+g3
+	f1
+e3
+c2
+	e1
+c2
+e3
+f1
+g3
+e2
+	c1
+e2
+c3
+	b1
+a3
+c2
+	a1
+```
